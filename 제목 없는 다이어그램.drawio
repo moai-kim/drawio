@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="페이지-1" id="gK8ze82Cn34lkQ55p42S">
-    <mxGraphModel dx="830" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WlqATDFWco1XYYBNYs_D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlqATDFWco1XYYBNYs_D-11" target="RQWLSsUyHBjrVJgTsk6C-4">
+        <mxCell id="WlqATDFWco1XYYBNYs_D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WlqATDFWco1XYYBNYs_D-11" target="RQWLSsUyHBjrVJgTsk6C-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="270" width="110" height="240" as="geometry" />
+        <mxCell id="WlqATDFWco1XYYBNYs_D-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="270" width="110" height="240" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RQWLSsUyHBjrVJgTsk6C-1" target="RQWLSsUyHBjrVJgTsk6C-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,80 +28,98 @@
         <mxCell id="kdkellM9Dm9bTUvcJMx7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RQWLSsUyHBjrVJgTsk6C-1" target="kdkellM9Dm9bTUvcJMx7-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RQWLSsUyHBjrVJgTsk6C-1" value="Squid Proxy&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="250" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="RQWLSsUyHBjrVJgTsk6C-2" value="SSL Bump" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="540" y="300" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RQWLSsUyHBjrVJgTsk6C-3" value="Chrome Extensions" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" parent="1" vertex="1">
-          <mxGeometry x="180.12" y="285" width="29.76" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQWLSsUyHBjrVJgTsk6C-4" target="RQWLSsUyHBjrVJgTsk6C-10">
+        <mxCell id="ClJdJamdE3gXRokzowvG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;startFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RQWLSsUyHBjrVJgTsk6C-1" target="ClJdJamdE3gXRokzowvG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RQWLSsUyHBjrVJgTsk6C-4" target="RQWLSsUyHBjrVJgTsk6C-1">
+        <mxCell id="RQWLSsUyHBjrVJgTsk6C-1" value="Squid Proxy&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="250" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RQWLSsUyHBjrVJgTsk6C-2" value="SSL Bump" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="470" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RQWLSsUyHBjrVJgTsk6C-3" value="Chrome Extensions" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" parent="1" vertex="1">
+          <mxGeometry x="110.12" y="285" width="29.76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlqATDFWco1XYYBNYs_D-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RQWLSsUyHBjrVJgTsk6C-4" target="RQWLSsUyHBjrVJgTsk6C-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WlqATDFWco1XYYBNYs_D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RQWLSsUyHBjrVJgTsk6C-4" target="RQWLSsUyHBjrVJgTsk6C-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-4" value="chatgpt.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="224" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-10" value="friewall" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="374.88" y="140" width="60" height="50" as="geometry" />
+          <mxGeometry x="304.88" y="140" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#CC0000;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="330" y="220" width="30" height="30" as="geometry" />
+          <mxGeometry x="260" y="220" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=light-dark(#2448db, #ededed);strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="460" y="151" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" y="151" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RQWLSsUyHBjrVJgTsk6C-21" value="pac" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tablet_pc.svg;" parent="1" vertex="1">
-          <mxGeometry x="180.68" y="400" width="29.2" height="40" as="geometry" />
+          <mxGeometry x="110.68" y="400" width="29.2" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="700" y="190" width="40" height="60" as="geometry" />
+          <mxGeometry x="630" y="190" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="700" y="250" width="40" height="60" as="geometry" />
+          <mxGeometry x="630" y="250" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="700" y="310" width="40" height="60" as="geometry" />
+          <mxGeometry x="630" y="310" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="700" y="370" width="40" height="60" as="geometry" />
+          <mxGeometry x="630" y="370" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-8" value="IaC형식 관리" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="170" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kdkellM9Dm9bTUvcJMx7-17" value="AWS CloudFormation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="660" y="140" width="120" height="30" as="geometry" />
+          <mxGeometry x="610" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kdkellM9Dm9bTUvcJMx7-19" target="kdkellM9Dm9bTUvcJMx7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-19" value="ICAP 서버" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="560" y="500" width="40" height="40" as="geometry" />
+          <mxGeometry x="490" y="500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kdkellM9Dm9bTUvcJMx7-22" value="백엔드" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="700" y="500" width="40" height="40" as="geometry" />
+          <mxGeometry x="630" y="500" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mps-ai;" vertex="1" parent="1">
-          <mxGeometry x="780" y="504" width="29.83" height="30" as="geometry" />
+        <mxCell id="WlqATDFWco1XYYBNYs_D-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mps-ai;" parent="1" vertex="1">
+          <mxGeometry x="710" y="504" width="29.83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kdkellM9Dm9bTUvcJMx7-22" target="WlqATDFWco1XYYBNYs_D-1">
+        <mxCell id="WlqATDFWco1XYYBNYs_D-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kdkellM9Dm9bTUvcJMx7-22" target="WlqATDFWco1XYYBNYs_D-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WlqATDFWco1XYYBNYs_D-4" target="kdkellM9Dm9bTUvcJMx7-22">
+        <mxCell id="WlqATDFWco1XYYBNYs_D-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WlqATDFWco1XYYBNYs_D-4" target="kdkellM9Dm9bTUvcJMx7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-4" value="web" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" vertex="1" parent="1">
-          <mxGeometry x="775.9300000000001" y="440" width="37.97" height="30" as="geometry" />
+        <mxCell id="WlqATDFWco1XYYBNYs_D-4" value="web" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;" parent="1" vertex="1">
+          <mxGeometry x="705.9300000000001" y="440" width="37.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;인증서 설치&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cas_ssl_central_authentication_service;" vertex="1" parent="1">
-          <mxGeometry x="230.12" y="500" width="39.82" height="45" as="geometry" />
+        <mxCell id="WlqATDFWco1XYYBNYs_D-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;인증서 설치&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cas_ssl_central_authentication_service;" parent="1" vertex="1">
+          <mxGeometry x="160.12" y="500" width="39.82" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="WlqATDFWco1XYYBNYs_D-7" value="사용자 PC" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
-          <mxGeometry x="170" y="500" width="50" height="45" as="geometry" />
+        <mxCell id="WlqATDFWco1XYYBNYs_D-7" value="사용자 PC" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
+          <mxGeometry x="100" y="500" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-1" value="1. Squid, OpenSSL 설치&#xa;" style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="259" y="375" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-3" value="파이썬 언어로 개발" style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="455" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-4" value="spring boot 개발" style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.524;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ClJdJamdE3gXRokzowvG-6" target="WlqATDFWco1XYYBNYs_D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-6" value="2. 프록시용 CA 인증서 생성 및 배포&#xa;" style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="259" y="410" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ClJdJamdE3gXRokzowvG-7" value="3. squid 설정파일 수정&#xa; -  SSL Bump 및 ChatGPT 도메인 필터링 설정&#xa; - chatgpt 에 대해서만 icap 서버 전달" style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="259" y="444.5" width="191" height="75.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
